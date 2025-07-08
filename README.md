@@ -1,0 +1,2 @@
+# Conecta-saude-digital-SJM
+O projeto [Conecta-saude-digital-SJM] propõe o desenvolvimento e implementação de uma plataforma digital unificada, acessível via desktop e dispositivos móveis, com o objetivo de centralizar informações, serviços e canais de comunicação para a população de São João de Meriti. Esta iniciativa visa modernizar a interação entre a administração municipal e seus cidadãos, promovendo maior transparência, eficiência e engajamento cívico.
